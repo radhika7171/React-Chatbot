@@ -1,0 +1,17 @@
+.cool-bot-avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-style: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+  background-color: teal;
+  color: black;
+  border-right: 20px;
+  padding: 2px;
+  margin-right: 10px;
+}
